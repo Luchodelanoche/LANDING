@@ -1,0 +1,111 @@
+body{
+  background:(#a3d5ff);
+  color: #a3d5ff;
+  font-size: 25px;
+  font-weight: lighter;
+  font-family: century gothic;
+}
+h1{
+  font-family: century gothic;
+  color: #3a86ff;
+  font-weight: lighter;
+  font-size: 300px;
+}
+h2 {
+  font-family: century gothic;
+  color: #3a86ff;
+  font-weight: lighter;
+  font-size: 25px;
+}
+a {
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: red;
+
+}
+
+p{
+  color: black
+}
+
+#button {
+background-color: #2b59c3;
+border:solid 3px #2b59c3;
+border-radius: 5px;
+padding: 5px;
+margin: 40px;
+}
+
+#button:hover {
+  color : white;
+ background-color: #43b929;
+ border-color: #43b929;
+}
+
+
+#banner{
+  text-align: center;
+  background-image: url("https://media.giphy.com/media/xc8ELQTqtqFEI/giphy.gif");
+  background-size: cover;
+  padding: 150px;
+opacity: 0.9;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 200px;
+  text-align: center;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+  padding: 40px;
+}
+
+
+#footer{
+  padding: 40px;
+  background: rgb(30, 30, 30);
+  color: grey;
+  text-align: center;
+
+}
+
+#footer p {
+  color: grey;
+}
+
+#footer a {
+  color:#3a86ff;
+  font-size: 40px
+  padding: 40px;
+}
+
+#footer a:hover {
+color: red;
+}
+
+
+
+
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+  border:5px solid #3a86ff;
+  margin:60px;
+  border-radius: 20px;
+  background-color: #D8DDEF 
+
+}
+
+
+
+
+
+
+
